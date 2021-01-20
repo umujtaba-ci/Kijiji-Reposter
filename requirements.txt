@@ -4,4 +4,3 @@ flask-wtf
 httpx
 xmltodict
 urllib3
-gunicorn
